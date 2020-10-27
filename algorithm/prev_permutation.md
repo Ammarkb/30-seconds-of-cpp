@@ -22,6 +22,6 @@ int main () {
   std::cout << "After loop: " << myints[0] << ' ' << myints[1] << ' ' << myints[2] << '\n';
 
   return 0;
-}
+}  
 ```
 **[Run Code](https://rextester.com/GBOOB76400)**
