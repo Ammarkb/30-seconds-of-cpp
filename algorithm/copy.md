@@ -14,6 +14,6 @@
     for (auto value : destination) { 
         std::cout << value << " "; 
     }
-```
+```      
 **[See Sample code](../snippets/algorithm/copy.cpp)**
 **[Run Code](https://rextester.com/DPG88459)**
