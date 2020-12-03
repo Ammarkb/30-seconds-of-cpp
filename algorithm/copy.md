@@ -1,4 +1,4 @@
-# copy
+# copy     
 
 **Description** : Copies the elements in the range, defined by `[first, last)`, to another range beginning at passed argument.
 
