@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-
+     
 ''' Simple script to auto-generate the README.md file for a 30 Seconds of C++ project.
     Apply as a git hook by running the following command in linux:
         cd .git/hooks/ && ln -s ../../createtil.py pre-commit && cd -
